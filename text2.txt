@@ -1,0 +1,6 @@
+CRISPR specificity is partially determined by how
+ specific lllll
+ target compared to the rest of the genome. Ideally,
+ a gRNA will bbbbb
+have perfect  with no
+homology elsewhere in the genome.
