@@ -1,0 +1,5 @@
+
+This is a new text file. It has number 3.
+I had to write it directly in the code. 
+So,method write allows to do it.
+One more line

@@ -12,7 +12,7 @@ def is_mismatched_lines(file1_name,file2_name):
 
     print("Lines from", file1_name,":", file1_lines)
     print("Lines from", file2_name,":", file2_lines)
-    for line_num, (line1, line2) in enumerate(zip(file1_lines,file2_lines), start =1):
+    for line_num, (line1, line2) in enumerate(zip(file1_lines,file2_lines), start=1):
         if line1 != line2:
             print(f"Mismatch at line {line_num}:")
             print(f"{file1_name}: {line1.strip()}")
