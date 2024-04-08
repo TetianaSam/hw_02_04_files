@@ -1,6 +1,5 @@
-CRISPR specificity is partially determined by how
- specific the gRNA targeting sequence is for the genomic
+CRISPR specificity is partially determined by how  specific the gRNA targeting SEQUENCE is for the genomic
  target compared to the rest of the genome. Ideally,
- a gRNA targeting sequence will nnnnnn
+ a gRNA targeting SEQUENCE will nnnnnn
 have perfect homology to the target DNA with no
 homology elsewhere in the genome kkkkkk
